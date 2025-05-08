@@ -20,3 +20,11 @@
 > ![Alt text](image.png)
 
 </details>
+
+<details>
+<summary>Screenshot of sending and processing event.</summary>
+
+> ![Alt text](image-1.png)
+
+> Ketika ‘cargo run’ dieksekusi pada publisher, publisher mengirimkan 5 event ke message broker. Event tersebut kemudian dikonsumsi dan diproses oleh subscriber.
+</details>

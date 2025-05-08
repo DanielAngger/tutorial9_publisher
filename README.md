@@ -13,3 +13,10 @@
 > Karena publisher dan subscriber sama-sama menggunakan URL ini, maka mereka terhubung ke server RabbitMQ yang sama, yaitu localhost. Jadi, ketika publisher ini kirim pesan ke queue "user_created", maka subscriber yang sedang listen di queue yang sama akan menerima pesan-pesan tersebut.
 
 </details>
+
+<details>
+<summary>Screenshot of running RabbitMQ.</summary>
+
+> ![Alt text](image.png)
+
+</details>

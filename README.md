@@ -28,3 +28,13 @@
 
 > Ketika ‘cargo run’ dieksekusi pada publisher, publisher mengirimkan 5 event ke message broker. Event tersebut kemudian dikonsumsi dan diproses oleh subscriber.
 </details>
+
+
+<details>
+<summary>Screenshot of monitoring chart based on publisher.</summary>
+
+> ![Alt text](image-2.png)
+
+> Bisa dilihat pada chart di atas, ada "duri" yang terlihat di selang waktu tertentu. Duri tersebut menandakan kalau pada waktu tersebut, publisher sedang dieksekusi, yang mengakibatkan subscriber memproses event tersebut.
+
+</details>
